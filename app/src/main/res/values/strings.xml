@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicBox</string>
+    <string name="song_list_title">Available Songs</string>
+    <string name="no_song_selected">No song selected</string>
+    <string name="play_button_text">Play</string>
+    <string name="pause_button_text">Pause</string>
+</resources>
